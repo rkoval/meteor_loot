@@ -1,5 +1,5 @@
 # meteor_loot
-LOOT (Learning Opportunities On Tuesday) Session given on Meteor
+LOOT (**L**earning **O**pportunities **O**n **T**uesday) Session given on Meteor
 
 Basically a regurgitation of [the official Meteor tutorial](https://www.meteor.com/try), but tuned to fit into a section of an hour-long presentation. 
 
